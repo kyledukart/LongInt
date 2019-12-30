@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544593435 source:c:\users\kyle\desktop\codeblocks\longint\main.cpp
+	<iostream>
+	"longint.h"
+
+1544592785 c:\users\kyle\desktop\codeblocks\longint\longint.h
+	<iostream>
+	"deque.h"
+
+1543526612 c:\users\kyle\desktop\codeblocks\longint\deque.h
+	<iostream>
+	"deque.cpp.h"
+
+1543526612 c:\users\kyle\desktop\codeblocks\longint\deque.cpp.h
+
+1544593799 source:c:\users\kyle\desktop\codeblocks\longint\longint.cpp
+	"longint.h"
+
